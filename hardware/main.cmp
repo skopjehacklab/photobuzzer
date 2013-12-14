@@ -1,0 +1,73 @@
+Cmp-Mod V01 Created by CvPcb (2013-may-18)-stable date = саб, 14 дек 2013 02:45:40 CET
+
+BeginCmp
+TimeStamp = /52ABAFB4;
+Reference = C1;
+ValeurCmp = 100n;
+IdModule  = C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /52ABB6E7;
+Reference = C2;
+ValeurCmp = C;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /52ABB711;
+Reference = C3;
+ValeurCmp = C;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /52ABB5D5;
+Reference = IC1;
+ValeurCmp = ATMEGA328P-P;
+IdModule  = DIP-28__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /52ABB382;
+Reference = P1;
+ValeurCmp = PWR;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /52ABAF29;
+Reference = PHOTOR1;
+ValeurCmp = PHOTOR;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /52ABAF6B;
+Reference = R1;
+ValeurCmp = 10k;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /52ABAE61;
+Reference = R2;
+ValeurCmp = 82;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /52ABAEE6;
+Reference = SP1;
+ValeurCmp = SPEAKER;
+IdModule  = BUZZER;
+EndCmp
+
+BeginCmp
+TimeStamp = /52ABB6D8;
+Reference = X1;
+ValeurCmp = CRYSTAL;
+IdModule  = Crystal_HC49-U_Vertical_RevA_09Aug2010;
+EndCmp
+
+EndListe
