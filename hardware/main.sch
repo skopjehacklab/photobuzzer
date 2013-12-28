@@ -74,12 +74,12 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
+Title "Photo Buzzer"
 Date "14 dec 2013"
-Rev ""
-Comp ""
-Comment1 ""
-Comment2 ""
+Rev "1.0"
+Comp "Hacklab KIKA"
+Comment1 "info@slobodensoftver.org.mk"
+Comment2 "aleks@slobodensoftver.org.mk"
 Comment3 ""
 Comment4 ""
 $EndDescr
